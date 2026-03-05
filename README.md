@@ -43,3 +43,9 @@ Previously **CTO at [Codacy](https://www.codacy.com/)**, where I led engineering
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 </p>
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=caxaria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
